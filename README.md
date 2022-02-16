@@ -1,8 +1,8 @@
 # BasicBankingSystem
 ***I have created the Basic Banking System as an intern for the Sparks Foundation.***
-#GRIPFEB2022 
+#GRIPFEBRUARY22 
 
-Intern @ Spark Foundation
+Intern @ The Spark Foundation
 
 Task 1: Basic Banking System
 
